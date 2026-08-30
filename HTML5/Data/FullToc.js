@@ -1,0 +1,18 @@
+var xmlFullTocData = "";
+xmlFullTocData += '<?xml version=\"1.0\" encoding=\"utf-8\"?>';
+xmlFullTocData += '<CatapultToc Version=\"1\" DescendantCount=\"9\">';
+xmlFullTocData += '    <TocEntry Title=\"SmartTV Help Documentation\" ComputedFirstTopic=\"false\" DescendantCount=\"9\">';
+xmlFullTocData += '        <TocEntry Title=\"About SmartTV App\" Link=\"/Content/SmartTV app.htm\" ComputedResetPageLayout=\"true\" ComputedFirstTopic=\"true\" DescendantCount=\"0\" />';
+xmlFullTocData += '        <TocEntry Title=\"Getting Started with SmartTV\" Link=\"/Content/Getting Started.htm\" xmlns:MadCap=\"http://www.madcapsoftware.com/Schemas/MadCap.xsd\" ComputedFirstTopic=\"false\" DescendantCount=\"0\" />';
+xmlFullTocData += '        <TocEntry Title=\"Finding and Browsing Programs\" Link=\"/Content/Finding programs.htm\" xmlns:MadCap=\"http://www.madcapsoftware.com/Schemas/MadCap.xsd\" ComputedFirstTopic=\"false\" DescendantCount=\"0\" />';
+xmlFullTocData += '        <TocEntry Title=\"Managing Your Favorite Programs\" Link=\"/Content/Managing Favorites.htm\" xmlns:MadCap=\"http://www.madcapsoftware.com/Schemas/MadCap.xsd\" ComputedFirstTopic=\"false\" DescendantCount=\"0\" />';
+xmlFullTocData += '        <TocEntry Title=\"Scheduling Your Programs\" Link=\"/Content/Scheduling Programs.htm\" xmlns:MadCap=\"http://www.madcapsoftware.com/Schemas/MadCap.xsd\" ComputedFirstTopic=\"false\" DescendantCount=\"0\" />';
+xmlFullTocData += '        <TocEntry Title=\"Setting Reminders for Programs\" Link=\"/Content/Setting Reminders.htm\" xmlns:MadCap=\"http://www.madcapsoftware.com/Schemas/MadCap.xsd\" ComputedFirstTopic=\"false\" DescendantCount=\"0\" />';
+xmlFullTocData += '        <TocEntry Title=\"Settings and Preferences\" Link=\"/Content/App Settings.htm\" xmlns:MadCap=\"http://www.madcapsoftware.com/Schemas/MadCap.xsd\" ComputedFirstTopic=\"false\" DescendantCount=\"0\" />';
+xmlFullTocData += '        <TocEntry Title=\"Troubleshooting Guide\" ComputedFirstTopic=\"false\" DescendantCount=\"2\">';
+xmlFullTocData += '            <TocEntry Title=\"Troubleshooting Login Issue\" Link=\"/Content/Login issue.htm\" xmlns:MadCap=\"http://www.madcapsoftware.com/Schemas/MadCap.xsd\" ComputedFirstTopic=\"false\" DescendantCount=\"0\" />';
+xmlFullTocData += '            <TocEntry Title=\"Troubleshooting Playback Issues\" Link=\"/Content/Playback Issues.htm\" xmlns:MadCap=\"http://www.madcapsoftware.com/Schemas/MadCap.xsd\" ComputedFirstTopic=\"false\" DescendantCount=\"0\" />';
+xmlFullTocData += '        </TocEntry>';
+xmlFullTocData += '    </TocEntry>';
+xmlFullTocData += '</CatapultToc>';
+MadCap.Utilities.Xhr._FilePathToXmlStringMap.Add('FullToc', xmlFullTocData);

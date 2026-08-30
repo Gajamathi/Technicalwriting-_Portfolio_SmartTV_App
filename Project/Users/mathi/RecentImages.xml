@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UrlList>
+    <Url Source="Resources/Images/Account setting.png" />
+    <Url Source="Resources/Images/Add new reminders.png" />
+    <Url Source="Resources/Images/Empty Reminders.png" />
+    <Url Source="Resources/Images/Filled reminders.png" />
+    <Url Source="Resources/Images/Program schedule.png" />
+    <Url Source="Resources/Images/Filled favorites.png" />
+    <Url Source="Resources/Images/Empty favorites.png" />
+    <Url Source="Resources/Images/Home screen.png" />
+</UrlList>
