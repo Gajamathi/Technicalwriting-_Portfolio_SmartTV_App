@@ -9,7 +9,7 @@ Welcome! This portfolio showcases my technical writing and documentation project
 - **Tool:** MadCap Flare
 - **Scope:** 9 topics, 9 screenshots, cross-references
 - **Output:** Interactive HTML5
-- **View:** [SmartTV Documentation](./smarttv-documentation/index.html)
+- **View:** [SmartTV Documentation](./Content)
 
 **Features Demonstrated:**
 - Professional topic structure (H1/H2/H3 hierarchy)
